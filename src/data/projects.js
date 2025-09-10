@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     title: "Portfolio Website",
     description: "A personal portfolio built with React, Tailwind CSS, and Vite.",
-    image: "/images/portfolio.png", // public/images ke andar image rakho
+    image: "/images/portfolio.jpeg", // public/images ke andar image rakho
     link: "https://your-portfolio-link.com",
     tags: ["React", "Tailwind", "Vite"]
   },
